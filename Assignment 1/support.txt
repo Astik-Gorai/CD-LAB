@@ -1,0 +1,5 @@
+To Compile The Code Use The Below Command:
+            'gcc -o my_program main.c lexer.c utils.c'
+To Run The Program :
+        ./my_program sample.cx
+
